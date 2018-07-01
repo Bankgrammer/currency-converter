@@ -1,0 +1,22 @@
+
+html {
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+   background-image: linear-gradient(to right, #28b485, #7ed56f);
+}
+
+.navbar-text {
+	padding-left: 35rem;
+	color: green;
+	text-transform: uppercase;
+	text-decoration: underline;
+	border-bottom: 
+}
+
+.text-message {
+	display:none;
+	margin : 0 auto;
+}
