@@ -12,3 +12,6 @@ We also use freecurrencyconverterAPI to FETCH data((https://www.currencyconverte
 
 This Schorlarship is provided by @Google, @Andela, @Udacity .
 
+Visit The Website To View The Project
+
+https://bankgrammer.github.io/currency-converter/
